@@ -1,4 +1,4 @@
-油猴脚本集
+油猴脚本集（自用）
 ==========================
 https://greasyfork.org/users/8227-hoothin
 
